@@ -1,0 +1,44 @@
+*{
+    background-color: red;
+}
+.lista img{
+    width: 350px;
+}
+
+.lista{
+    list-style: none;
+
+}
+body{
+    text-align: center;
+}
+img{
+    width: 500px;
+}
+
+.texto{
+    color: white;
+    font-size: 20px;
+}
+h1{
+    color: blue;
+}
+b{
+    font-size: 50px;
+}
+.birdo{
+    color: magenta;
+    font-size: 30px;
+}
+.floro{
+    color: green;
+    font-size: 30px;
+}
+.floruga{
+    color: yellowgreen;
+    font-size: 30px;
+}
+.kamek{
+    color: lightblue;
+    font-size: 30px;
+}

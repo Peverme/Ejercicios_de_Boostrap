@@ -1,0 +1,23 @@
+
+body{
+    background-color: aqua;
+
+}
+
+#links {
+    list-style: none;
+}
+
+
+#links li {
+    padding: 10px;
+}
+
+img{
+    width: 500px;
+    padding: 50px;
+}
+
+p{
+    width: 300px;
+}

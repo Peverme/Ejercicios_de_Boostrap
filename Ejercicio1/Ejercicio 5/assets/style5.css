@@ -1,0 +1,39 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+
+body{
+    background-image: url(./Stars.jpg);
+    text-align: center;
+}
+
+img{
+    width: 300px;
+}
+
+h1{
+    padding: 30px;
+}
+h2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+ol{
+    padding: 20px;
+}
+
+li{
+    list-style: none;
+}
+p{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.michis{
+    padding: 20px;
+}
